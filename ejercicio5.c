@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-
+//Prototipos de funciones
 void pasarValor(int);
 void pasarReferencia(int *);
 
